@@ -4,7 +4,7 @@ This is the codes and data for DANA model in our paper "[Domain-adversarial Netw
 If you would like to acknowledge our efforts, please cite the following paper:
 
     @article{hong2020dana,
-    title={https://arxiv.org/abs/1908.05429},
+    title={Domain-adversarial Network Alignment},
     author={Hong, Huiting and Li, Xin and Pan, Yuangang and W. Tsang, Ivor},
     journal={IEEE Transactions on Knowledge and Data Engineering},
     year={2020},
